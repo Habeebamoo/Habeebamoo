@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Habeeb Olakunle Amoo]
+# Hi there! 👋 I'm Habeeb Olakunle Amoo
 
 🚀 **Frontend Developer** | 🎓 **Computer Science Student**  
 Passionate about building responsive and interactive web applications.
@@ -24,7 +24,6 @@ Passionate about building responsive and interactive web applications.
 ## 🔥 Other Skills  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/DOSBox_icon.png" title="Batch Programming" width="50" height="50"/>
 </div>
 
 ---
