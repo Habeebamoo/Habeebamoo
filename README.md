@@ -20,6 +20,7 @@ Passionate about building responsive and interactive web applications.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" title="Yarn" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/2/22/Js-jasmine-logo.png" alt="Jasmine Logo" width="150">
 </div>
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/3.10.1/jasmine_favicon.png" alt="Jasmine Logo" width="150">
 
 ## 🔥 Other Skills  
 <div align="center">
