@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Habeeb Olakunle Amoo
 
-🚀 **Frontend Developer** | 🎓 **Computer Science Student**  
+🚀 **FrontEnd Developer** | 🎓 **Computer Science Student**  
 Passionate about building responsive and interactive web applications.
 
 ## 🛠 My Tech Stack  
