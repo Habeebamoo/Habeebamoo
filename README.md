@@ -3,7 +3,7 @@
 🚀 **FrontEnd Developer** | 🎓 **Computer Science Student**  
 Passionate about building responsive and interactive web applications.
 
-## 🛠 My Tech Stack  
+## 🛠 My Skills
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/>&nbsp;
@@ -14,19 +14,6 @@ Passionate about building responsive and interactive web applications.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" title="Vite" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" title="Yarn" width="50" height="50"/>&nbsp;
-</div>
-
-## ⚙️ Tools I Use
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" title="Vite" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" title="Yarn" width="50" height="50"/>&nbsp;
-  <img src="https://jasmine.github.io/images/jasmine-horizontal.svg" alt="Jasmine Logo" width="200">
-</div>
-
-## 🔥 Other Skills  
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>&nbsp;
 </div>
 
