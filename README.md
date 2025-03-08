@@ -19,5 +19,7 @@ Passionate about building responsive and interactive web applications.
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Habeebamoo=Habeebamoo&layout=compact&theme=radical)
+
 
 💡 **"Code, Learn, and Build!"**
