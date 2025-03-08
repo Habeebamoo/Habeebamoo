@@ -19,7 +19,5 @@ Passionate about building responsive and interactive web applications.
 
 ---
 
-### 📫 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/habeeb-amoo-a599232b8)
 
 💡 **"Code, Learn, and Build!"**
