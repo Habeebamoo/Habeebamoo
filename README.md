@@ -4,7 +4,7 @@
 
 With **a year** of experience in software development, I am passionate about building responsive, user centric and interactive web applications.
 
-## 🛠 My Skills
+## 🛠 My Skill Set
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45">&nbsp;
