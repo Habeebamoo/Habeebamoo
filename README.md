@@ -9,7 +9,12 @@ With **a year** of experience in software development, I am passionate about bui
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/starter/asset/tailwind-logo.svg" width="45" height="45" alt="Tailwind CSS Logo" />
+  <svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+  <path d="M12 22l10-5-10-5-10 5 10 5z"></path>
+  <path d="M2 7l10 5 10-5"></path>
+  <path d="M2 17l10 5 10-5"></path>
+  </svg>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="45" height="45"/>&nbsp;  
