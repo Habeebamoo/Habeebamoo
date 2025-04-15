@@ -2,7 +2,7 @@
 
 🚀 **Frontend Developer** | 🎓 **Computer Science Student**  
 
-With **a year** of experience in software development, I am passionate about building responsive, user centric and interactive web applications.
+With **a year** of experience in software development, I build responsive, user centric and interactive web applications.
 
 ## 🛠 My Skill Set
 <div align="center">
