@@ -5,7 +5,7 @@
 With **a year** of experience in software development, I build responsive, user centric and interactive web applications.
 
 
-- 🌱 I am currently learning Go
+- 🌱 I am currently learning Go/Golang
 - 🎉 Ask me about HTML, CSS, JS, TS and React
 - 🚀 Available to work on open source projects
   
