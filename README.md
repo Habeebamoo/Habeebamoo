@@ -4,6 +4,10 @@
 
 With **a year** of experience in software development, I build responsive, user centric and interactive web applications.
 
+- 🌱 I am currently learning Go
+- 🎉 Ask me about HTML, CSS, JS, TS and React
+- 🚀 Available to work on open source projects
+
 ## 🛠 My Skill Set
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="45" height="45"/>&nbsp;
