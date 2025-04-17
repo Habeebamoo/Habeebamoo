@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Habeeb Olakunle Amoo
+## Hi there! 👋 I'm Habeeb Olakunle Amoo
 
 🚀 **Frontend Developer** | 🎓 **Computer Science Student**  
 
@@ -19,8 +19,8 @@ With **a year** of experience in software development, I build responsive, user 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
-  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" height="70" width="70" />
+  <img src="assets/1000214964_prev_ui.png" title="Git" width="40" height="40"/>&nbsp;
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" height="40" width="40" />
 </div>
 
 ---
