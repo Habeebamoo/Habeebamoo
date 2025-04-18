@@ -8,6 +8,11 @@ With **a year** of experience in software development, I build responsive, user 
 - 🌱 I am currently learning Go/Golang
 - 🎉 Ask me about HTML, CSS, JS, TS and React
 - 🚀 Available to work on open source projects
+
+My Recent Golang Project.
+
+- A TODO Task Manager CLI (command line interface) tool
+- A Student Gradebook Manager CLI tool
   
 
 ## 🛠 My Skill Set
