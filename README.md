@@ -2,7 +2,7 @@
 
 🚀 **Software Developer** | 🎓 **Computer Science Student**  
 
-With **a year** of experience in software development, I build responsive, user centric and interactive web applications.
+With **a year** of experience in software development, I build responsive, user centric and interactive applications.
 
 
 - 🌱 I am currently learning Go/Golang
