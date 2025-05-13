@@ -5,7 +5,7 @@
 With **1.5 years** of experience in software development, I build responsive, user centric and interactive applications.
 
 
-- 🌱 I am currently learning GoLang
+- 🌱 I am currently learning Golang
 - 🎉 Ask me about HTML, CSS, JavaScript, TypeScript and ReactJS
 - 🚀 Available to work on open source projects
 
