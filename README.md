@@ -11,8 +11,8 @@ With **1.5 years** of experience in software development, I build responsive, us
 
 My Recent Golang Project.
 
-- A TODO Task Manager CLI (command line interface) tool
-- A Student Gradebook Manager CLI tool
+- A TODO CLI (command line interface) app
+- GoMail, A CLI app for sending emails quickly directly from your command line
   
 
 ## 🛠 My Skill Set
