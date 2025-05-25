@@ -1,8 +1,8 @@
 ## Hi there! 👋 I'm Habeeb Olakunle Amoo
 
-🧑‍💻 **Software Developer**
-🎓 **Computer Science Student**
-**🚀 Aspiring Cloud Computing Engineer**
+- 🧑‍💻 **Software Developer**
+- 🎓 **Computer Science Student**
+- 🚀 **Aspiring Cloud Computing Engineer**
 
 With **1.5 years** of experience in software development, I build responsive, user centric and interactive applications.
 
@@ -10,7 +10,7 @@ With **1.5 years** of experience in software development, I build responsive, us
 - 🌱 I am currently learning Golang
 - 🎉 Ask me about HTML, CSS, JavaScript, TypeScript and ReactJS
 - 🚀 Available to work on open source projects
-
+ 
 My Recent Project.
 - GoMail, A CLI app for sending emails quickly directly from your command line
 - Flashquiz (in progress), A Full-Stack quiz application that brings trivia joy
