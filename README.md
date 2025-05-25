@@ -9,10 +9,9 @@ With **1.5 years** of experience in software development, I build responsive, us
 - 🎉 Ask me about HTML, CSS, JavaScript, TypeScript and ReactJS
 - 🚀 Available to work on open source projects
 
-My Recent Golang Project.
-
-- A TODO CLI (command line interface) app
+My Recent Project.
 - GoMail, A CLI app for sending emails quickly directly from your command line
+- Flashquiz (in progress), A Full-Stack quiz application that brings trivia joy
   
 
 ## 🛠 My Skill Set
