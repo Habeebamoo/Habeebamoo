@@ -7,7 +7,7 @@ With **1.5 years** of experience in software development, I build responsive, us
 
 - 🌱 I am currently learning Golang
 - 🎉 Ask me about HTML, CSS, JavaScript, TypeScript and ReactJS
-- ⚙️ I am interested in architecture, systems and networks
+- ⚙️ I am interested in *systems, networks and architecture*
 - 🚀 Available to work on open source projects
  
 My Recent Project.
