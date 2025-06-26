@@ -2,13 +2,15 @@
 
 🧑‍💻 **Software Developer** ~ 🎓 **Computer Science Student** ~ 🚀 **Aspiring Cloud Computing Engineer**
 
+## About
+
 With **1.5 years** of experience in software development, I build responsive, user centric and interactive applications.
 
 
-🌱 I am currently learning Golang
-🎉 Ask me about HTML, CSS, JavaScript, TypeScript and ReactJS
-⚙️ I am interested in **Systems, Networks and Architecture**
-🚀 Available to work on open source projects
+1. 🌱 I am currently learning Golang
+2. 🎉 Ask me about HTML, CSS, JavaScript, TypeScript and ReactJS
+3. ⚙️ I am interested in **Systems, Networks and Architecture**
+4. 🚀 Available to work on open source projects
  
 My Recent Project.
 - GoMail, A CLI app for sending emails quickly directly from your command line
@@ -26,24 +28,14 @@ My Recent Project.
 
 
 ### 📊 GitHub Stats
-
-
-<div align="center">
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeebamoo&layout=compact&theme=default)
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habeebamoo&show_icons=true&theme=default&hide_border=false)
 
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habeebamoo&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habeebamoo&theme=default)
   
-</div>
 
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habeebamoo&theme=default)
-
-#
 
 💡 **"Code, Learn, and Build!"**
