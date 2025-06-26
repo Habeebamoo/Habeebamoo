@@ -11,10 +11,6 @@ With **1.5 years** of experience in software development, I build responsive, us
 2. 🎉 Ask me about HTML, CSS, JavaScript, TypeScript and ReactJS
 3. ⚙️ I am interested in **Systems, Networks and Architecture**
 4. 🚀 Available to work on open source projects
- 
-My Recent Project.
-- GoMail, A CLI app for sending emails quickly directly from your command line
-- Flashquiz (in progress), A Full-Stack quiz application that brings trivia joy
   
 ## 🛠️ Tech Stack
 
@@ -28,6 +24,8 @@ My Recent Project.
 
 
 ### 📊 GitHub Stats
+
+<div align="center">
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeebamoo&layout=compact&theme=default)
  
@@ -35,7 +33,9 @@ My Recent Project.
 
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habeebamoo&theme=default)
-  
+
+
+</div>
 
 
 💡 **"Code, Learn, and Build!"**
