@@ -31,6 +31,19 @@ My Recent Project.
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Habeebamoo&show_icons=true&theme=radical)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habeebamoo&theme=radical)
+  
 </div>
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habeebamoo&show_icons=true&theme=default&hide_border=false)
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habeebamoo&theme=default&hide_border=false)
+
+### 📌 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeebamoo&layout=compact&theme=default&hide_border=false)
 
 💡 **"Code, Learn, and Build!"**
