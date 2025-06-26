@@ -24,26 +24,24 @@ My Recent Project.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### 📊 GitHub Stats
+
 <div align="center">
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeebamoo&layout=compact&theme=default)
  
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Habeebamoo&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habeebamoo&show_icons=true&theme=default&hide_border=false)
+
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habeebamoo&theme=radical)
   
 </div>
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habeebamoo&show_icons=true&theme=default&hide_border=false)
 
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habeebamoo&theme=default&hide_border=false)
 
-### 📌 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeebamoo&layout=compact&theme=default&hide_border=false)
+#
 
 💡 **"Code, Learn, and Build!"**
