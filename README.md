@@ -2,7 +2,7 @@
 
 🧑‍💻 **Software Developer** ~ 🎓 **Computer Science Student** ~ 🚀 **Aspiring Cloud Computing Engineer**
 
-## About
+## 💫 About
 
 With **1.5 years** of experience in software development, I build responsive, user centric and interactive applications.
 
@@ -11,6 +11,7 @@ With **1.5 years** of experience in software development, I build responsive, us
 2. 🎉 Ask me about HTML, CSS, JavaScript, TypeScript and ReactJS
 3. ⚙️ I am interested in **Systems, Networks and Architecture**
 4. 🚀 Available to work on open source projects
+   
   
 ## 🛠️ Tech Stack
 
