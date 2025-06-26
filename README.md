@@ -23,9 +23,8 @@ My Recent Project.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
----
-<div>
 
+<div>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeebamoo&layout=compact&theme=radical)
 
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Habeebamoo&show_icons=true&theme=radical)
