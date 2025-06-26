@@ -14,29 +14,18 @@ My Recent Project.
 - GoMail, A CLI app for sending emails quickly directly from your command line
 - Flashquiz (in progress), A Full-Stack quiz application that brings trivia joy
   
-
-## 🛠 My Skill Set
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" >
-  <img src="assets/go-original.svg" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>&nbsp;
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" height="40" />
-</div>
-
-### 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
-<div align="center">
+<div>
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeebamoo&layout=compact&theme=radical)
 
