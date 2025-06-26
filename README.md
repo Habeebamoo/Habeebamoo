@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Habeeb Olakunle Amoo
 
-🧑‍💻 **Software Developer** ~ 🎓 **Computer Science Student** ~ 🚀 **Aspiring Cloud Computing Engineer**
+🧑‍💻 **Software Developer** ~ 🎓 **Computer Science Student** ~ 🚀 **Cloud & Cyber Enthusiasts**
 
 ## 💫 About
 
@@ -39,4 +39,4 @@ With **1.5 years** of experience in software development, I build responsive, us
 </div>
 
 
-💡 **"Code, Learn, and Build!"**
+💡 **"Learn, Code and Build!"**
