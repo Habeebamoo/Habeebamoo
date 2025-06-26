@@ -5,16 +5,16 @@
 With **1.5 years** of experience in software development, I build responsive, user centric and interactive applications.
 
 
-- 🌱 I am currently learning Golang
-- 🎉 Ask me about HTML, CSS, JavaScript, TypeScript and ReactJS
-- ⚙️ I am interested in **Systems, Networks and Architecture**
-- 🚀 Available to work on open source projects
+🌱 I am currently learning Golang
+🎉 Ask me about HTML, CSS, JavaScript, TypeScript and ReactJS
+⚙️ I am interested in **Systems, Networks and Architecture**
+🚀 Available to work on open source projects
  
 My Recent Project.
 - GoMail, A CLI app for sending emails quickly directly from your command line
 - Flashquiz (in progress), A Full-Stack quiz application that brings trivia joy
   
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,7 +24,9 @@ My Recent Project.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+
 ### 📊 GitHub Stats
+
 
 <div align="center">
  
@@ -40,7 +42,7 @@ My Recent Project.
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habeebamoo&theme=default&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Habeebamoo&theme=default)
 
 #
 
