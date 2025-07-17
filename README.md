@@ -5,10 +5,10 @@
 
 With **1.5 years** of experience in software development, I primarily work with **Golang, TypeScript and JavaScript** to build user centric, secure and interactive applications.
 
-1. 🌱 I am currently learning Golang
-2. 🎉 Ask me about HTML, CSS, JavaScript, TypeScript and ReactJS
-3. ⚙️ I am interested in **Systems, Networks and Architecture**
-4. 🚀 Available to work on open source projects
+- 🌱 I am currently learning Golang
+-  🎉 Ask me about HTML, CSS, JavaScript, TypeScript and ReactJS
+-  I am interested in **Systems, Networks and Architecture**
+- 🚀 Available to work on open source projects
    
   
 ## 🛠️ My Tech Stack
