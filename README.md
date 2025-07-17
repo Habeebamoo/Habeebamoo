@@ -1,8 +1,8 @@
-### 🧑🏽‍💼 Habeeb Olakunle Amoo
+### 🧑🏽‍💻 Habeeb Olakunle Amoo
 
-### **Software Developer** | **CS Undergrad** | **Cloud Enthusiasts**
+### **Software Developer** | **Cloud Enthusiasts**
 
-## 💫 About
+## 💫 About me
 
 With **1.5 years** of experience in software development, I primarily work with **Golang, TypeScript and JavaScript** to build user centric, secure and interactive applications.
 
