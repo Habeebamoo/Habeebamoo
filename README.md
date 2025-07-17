@@ -1,6 +1,6 @@
-## Hi there! 👋 I'm Habeeb Olakunle Amoo
+## 🧑🏽‍💼 Habeeb Olakunle Amoo
 
-🧑‍💻 **Software Developer** ~ 🎓 **Computer Science Student** ~ 🚀 **Cloud & Cyber Enthusiasts**
+**Software Developer** | **Computer Science Student** | **Cloud & Cyber Enthusiasts**
 
 ## 💫 About
 
