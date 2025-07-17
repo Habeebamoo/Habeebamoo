@@ -1,4 +1,4 @@
-### 🧑🏽‍💻 Habeeb Olakunle Amoo
+# 🧑🏽‍💻 Habeeb Amoo
 
 ### **Software Developer** | **Cloud Enthusiasts**
 
