@@ -1,6 +1,6 @@
 ### 🧑🏽‍💼 Habeeb Olakunle Amoo
 
-##**Software Developer** | **CS Student** | **Cloud Enthusiasts**
+## **Software Developer** | **CS Undergrad** | **Cloud Enthusiasts**
 
 ## 💫 About
 
