@@ -1,6 +1,6 @@
 # 🧑🏽‍💻 Habeeb Amoo
 
-### **Software Developer** | **Cloud Enthusiasts**
+**Software Developer** | **Cloud Enthusiasts**
 
 ## 💫 About me
 
@@ -13,11 +13,6 @@ With **1.5 years** of experience in software development, I primarily work with 
    
   
 ## 🛠️ My Tech Stack
-
-💻 Languages: Golang, JavaScript, TypeScript.
-🌍 Web Development: React, Tailwindcss, HTML, CSS
-🛠 DevTools: Git.
-📊 Database: PostgreSQL.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
