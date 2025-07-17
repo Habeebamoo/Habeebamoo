@@ -38,4 +38,4 @@
 </div>
 
 
-💡 **"Learn, Code and Build!"**
+💡 *"Learn, Code and Build!"*
