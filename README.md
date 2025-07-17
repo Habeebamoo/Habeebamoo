@@ -4,8 +4,7 @@
 
 ## 💫 About
 
-With **1.5 years** of experience in software development, I build responsive, user centric and interactive applications.
-
+With **1.5 years** of experience in software development, I primarily work with **Golang, TypeScript and JavaScript** to build user centric, secure and interactive applications.
 
 1. 🌱 I am currently learning Golang
 2. 🎉 Ask me about HTML, CSS, JavaScript, TypeScript and ReactJS
@@ -13,7 +12,7 @@ With **1.5 years** of experience in software development, I build responsive, us
 4. 🚀 Available to work on open source projects
    
   
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
