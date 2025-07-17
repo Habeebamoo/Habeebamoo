@@ -14,6 +14,11 @@ With **1.5 years** of experience in software development, I primarily work with 
   
 ## 🛠️ My Tech Stack
 
+💻 Languages: Golang, JavaScript, TypeScript.
+🌍 Web Development: React, Tailwindcss, HTML, CSS
+🛠 DevTools: Git.
+📊 Database: PostgreSQL.
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
