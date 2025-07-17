@@ -1,6 +1,5 @@
 # 🧑🏽‍💻 Habeeb Amoo
-
-**Software Developer** | **Cloud Enthusiasts**
+*Software Developer* ~ *Cloud Enthusiasts*
 
 ## 💫 About me
 
