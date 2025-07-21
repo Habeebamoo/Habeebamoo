@@ -38,4 +38,4 @@
 </div>
 
 
-💡 *"Learn, Code and Build!"*
+💡 *Going to the Cloud 🚀💭*
