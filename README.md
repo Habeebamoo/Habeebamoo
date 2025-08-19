@@ -3,7 +3,7 @@
 
 ## 💫 About me
 
-*With **1.5 years** of experience in software development, I primarily work with **React.js, Golang and SQL Database** to build user centric, secure and interactive applications.*
+*With **1.5 years** of experience in software development, I primarily work with **ReactJS, Golang and SQL** to build user centric, secure and interactive applications.*
 
 - *I am currently learning Golang*
 - *Ask me about HTML, CSS, JavaScript,* TypeScript and ReactJS
