@@ -7,7 +7,7 @@
 
 - *I am currently learning Golang*
 - *Ask me about HTML, CSS, JavaScript,* TypeScript and ReactJS
-- *I am interested in* **Systems, Networks and Architecture**
+- *I am interested in* **Systems, Networks and Infrastructure**
 - *Available to work on open source projects*
    
   
