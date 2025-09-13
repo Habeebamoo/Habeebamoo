@@ -14,8 +14,7 @@
 ## 🛠️ My Tech Stack
 
 <div align="center">
-<img src="./assets/nodejs-original-wordmark.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="./assets/nodejs-original-wordmark.svg" height="47" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 <img src="./assets/go.svg" height="40">
 <img src="./assets/gin.webp" height="45" />
