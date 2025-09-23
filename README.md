@@ -35,6 +35,13 @@
 </div>
 
 
+### Databases
+
+<div>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+
 ### Workflows
 
 <div>
@@ -43,11 +50,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-### Databases
-
-<div>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
   
 
 ### 📊 GitHub Stats
