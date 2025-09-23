@@ -5,7 +5,7 @@
 
 *With **1.5 years** of experience in software development, I primarily work with **React, Golang and PostgreSQL** to build user centric, secure and interactive applications.*
 
-- *I am currently learning Golang*
+- *I am currently learning Backend Development (Go)*
 - *Ask me about HTML, CSS, JavaScript,* TypeScript and ReactJS
 - *I am interested in* **Systems, Networks and Infrastructure**
 - *Available to work on open source projects*
