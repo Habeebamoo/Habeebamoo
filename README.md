@@ -3,11 +3,13 @@
 
 ## 💫 About me
 
-*With **2 years** of experience in software development, I primarily work with **JavaScript & Golang** to build user centric, secure and interactive applications.*
+*With **2 years** of experience in software development, I primarily work with **JS & Go** to build user centric, secure and interactive applications.*
 
-- *I work with Go, TypeScript & JavaScript*
-- *I build modern and efficient web apps and APIs*
-- *I have a solid grasp of **Concurrency** enabling me to build systems that provides maximum UX*.
+*I work with Go, TypeScript & JavaScript*
+
+*I build modern and efficient web apps and APIs*
+
+*I have a solid grasp of **Concurrency** enabling me to build systems that provides maximum UX*.
   
 ## 🛠️ My Tech Stack
 <div>
