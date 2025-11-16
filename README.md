@@ -4,6 +4,10 @@
 ## 💫 About me
 I am a result-oriented developer who specializes in building modern and efficient Web apps and Backend systems
 
+- I build modern and responsive web applications and interfaces
+
+- I specialize in building Backend systems and scalable APIs
+
 ## 🛠️ My Tech Stack
 <div>
    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
