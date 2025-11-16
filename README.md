@@ -2,11 +2,11 @@
 *Software Developer* ~ *Cloud Enthusiasts*
 
 ## 💫 About me
-I am a result-oriented developer who specializes in building modern and efficient Web apps and Backend systems
+I am a result-oriented developer who priorities user experience over anything..
 
 - I build modern and responsive web applications and interfaces
 
-- I specialize in building Backend systems and scalable APIs
+- I specialize in building efficient backend systems and scalable APIs
 
 ## 🛠️ My Tech Stack
 <div>
