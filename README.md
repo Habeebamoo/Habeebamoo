@@ -2,7 +2,7 @@
 *Software Developer* ~ *Cloud Enthusiasts*
 
 ## 💫 About me
-I am a result-oriented developer who priorities user experience over anything..
+I am a result-oriented developer who priorities user experience over anything...
 
 - I build modern and responsive web applications and interfaces
 
