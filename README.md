@@ -2,11 +2,8 @@
 *Software Developer* ~ *Cloud Enthusiasts*
 
 ## 💫 About me
-I am a result-oriented developer who prioritizes user experiences over anything...
 
-- I build modern and responsive web applications and interfaces
-
-- I specialize in building efficient backend systems and scalable APIs
+I'm Habeeb, a Full-Stack Developer who enjoys building clean, reliable, and scalable applications. I focus on writing maintainable code, designing solid backend systems, and delivering solutions that solve real problems. I value learning, clarity, and steady improvement in every project I work on.
 
 ## 🛠️ My Tech Stack
 
