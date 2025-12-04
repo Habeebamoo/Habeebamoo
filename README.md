@@ -3,7 +3,7 @@
 
 ## 💫 About me
 
-I'm Habeeb, a Result-Oriented Developer who enjoys building clean, reliable, and scalable applications. I focus on writing maintainable code, designing solid backend systems, and delivering solutions that solve real problems. I value learning, clarity, and steady improvement in every project I work on.
+I'm a Result-Oriented Developer who enjoys building clean, reliable, and scalable applications. I focus on writing maintainable code, designing solid backend systems, and delivering solutions that solve real problems. I value learning, clarity, and steady improvement in every project I work on.
 
 ## 🛠️ My Tech Stack
 
