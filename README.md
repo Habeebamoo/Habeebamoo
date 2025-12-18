@@ -1,9 +1,9 @@
 # 🧑🏽‍💻 Habeeb Amoo
 *Software Developer* ~ *Cloud Enthusiasts*
 
-## 💫 About me
+## 💫 What I Do
 
-I'm a Result-Oriented Developer who enjoys building clean, reliable, and scalable applications. I focus on writing maintainable code, designing solid backend systems, and delivering solutions that solve real problems. I value learning, clarity, and steady improvement in every project I work on.
+> I build backend APIs with clean, layered architectures, handle middleware and data persistence, and integrate them with frontend applications through well-structured client-server flows.
 
 ## 🛠️ My Tech Stack
 
