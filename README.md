@@ -3,7 +3,7 @@
 
 ## 💫 What I Do
 
-> I build backend APIs with clean, layered architectures, handle middleware and data persistence, and integrate them with frontend applications through well-structured client-server flows.
+> I build backend systems with clean, layered architectures, handle middleware and data persistence, and integrate them with frontend applications through well-structured client-server flows.
 
 ## 🛠️ My Tech Stack
 
