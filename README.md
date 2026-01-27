@@ -1,4 +1,4 @@
-# 🧑🏽‍💻 Habeeb Amoo
+# Habeeb Amoo
 *Software Developer* ~ *Cloud Enthusiasts*
 
 ## 💫 What I Do
