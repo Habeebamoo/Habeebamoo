@@ -1,9 +1,10 @@
 # Habeeb Amoo
-*Software Developer* ~ *Cloud Enthusiasts*
+*Software Engineer* ~ *Cloud Enthusiasts*
 
-## 💫 What I Do
+## 💫 What I'm Into
 
-> I build backend systems with clean, layered architectures, handle middleware and data persistence, and integrate them with frontend applications through well-structured client-server flows.
+1. Building scalable backend systems with Go and Node.js
+2. Crafting web applications with seamless user experience 
 
 ## 🛠️ My Tech Stack
 
