@@ -47,7 +47,7 @@
 
 <div align="center">
    
-   [![Habeeb on X](https://camo.githubusercontent.com/<hash>/raw/<image>?sanitize=true)](https://x.com/Habeeb_O_Amoo)
+   [![X](https://img.shields.io/badge/X-@Habeeb_O_Amoo-black?style=flat&logo=x)](https://x.com/Habeeb_O_Amoo)
       
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habeeeb-amoo-2a5787380)
 
