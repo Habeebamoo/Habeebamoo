@@ -45,7 +45,7 @@
 
 ## Connect
 
-<div>
+<div align="center">
    
    [![Habeeb on X](https://camo.githubusercontent.com/<hash>/raw/<image>?sanitize=true)](https://x.com/Habeeb_O_Amoo)
       
