@@ -53,7 +53,7 @@
 
    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Habeebamoo)
 
-   [![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://habeebamoo.netlify.app)
+   [![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://habeebamoo.vercel.app)
 
 </div>
 
