@@ -3,8 +3,8 @@
 
 ## 💫 What I'm Into
 
-1. Building scalable backend systems with Go and Node.js
-2. Crafting web applications with seamless user experience 
+1. Designing scalable backend systems with Go and Node.js
+2. Building websites & web applications with seamless UX
 
 ## 🛠️ My Tech Stack
 
