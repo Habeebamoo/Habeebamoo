@@ -14,6 +14,10 @@
 
 **Databases**: *PostgreSQL, MongoDB, Redis*.
 
+**Infrastructure**: *Linux, Docker*
+
+***
+
 ## 📊 GitHub Stats
 
 <div align="center">
