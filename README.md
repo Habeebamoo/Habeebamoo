@@ -3,13 +3,13 @@
 
 ## 🛠️ My Tech Stack
 
-**Languages**: *Go, Typescript & JavaScript*.
+**Languages**: *Go, Typescript, JavaScript*.
 
 **Frameworks**: *Next.js, React.js, Go Gin, Express.js*.
 
 **Databases**: *PostgreSQL, MongoDB, Redis*.
 
-**Infrastructure**: *Linux, Docker*
+**Infrastructure**: *Linux, Docker.*
 
 ***
 
