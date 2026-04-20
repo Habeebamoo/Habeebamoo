@@ -1,10 +1,10 @@
 # Habeeb Amoo
-*Software Engineer* ~ *Cloud Enthusiasts*
+*Software Engineer* ~ *Backend/Cloud Enthusiasts*
 
-## 💫 What I'm Into
+## 💫 What I do
 
-1. Designing scalable backend systems with Go and Node.js
-2. Building websites & web applications with seamless UX
+1. Designing scalable backend systems with Go & Node.js.
+2. Building responsive & interactive web applications.
 
 ## 🛠️ My Tech Stack
 
