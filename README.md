@@ -8,11 +8,11 @@
 
 ## 🛠️ My Tech Stack
 
-**Languages**: Go, Typescript & JavaScript.
+**Languages**: *Go, Typescript & JavaScript*.
 
-**Frameworks**: Next.js, React.js, Go Gin, Express.js.
+**Frameworks**: *Next.js, React.js, Go Gin, Express.js*.
 
-**Databases**: PostgreSQL, MongoDB, Redis.
+**Databases**: *PostgreSQL, MongoDB, Redis*.
 
 ## 📊 GitHub Stats
 
