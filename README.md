@@ -1,5 +1,5 @@
 # Habeeb Amoo
-*Software engineer crafting scalable backend systems & interactive web applications*
+*Software engineer focused on building scalable backend systems while crafting interactive web applications*
 
 ## 🛠️ My Tech Stack
 
