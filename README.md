@@ -1,11 +1,11 @@
 # Habeeb Amoo
-*Software engineer focused on building scalable backend systems while crafting interactive web applications*
+*Software engineer focused on building scalable backend systems & designing interactive web applications.*
 
 ## 🛠️ My Tech Stack
 
 **Languages**: *Go, Typescript, JavaScript*.
 
-**Frameworks**: *Next.js, React.js, Go Gin, Express.js*.
+**Frameworks**: *React, Next.js, Gin, Express.js*.
 
 **Databases**: *PostgreSQL, MongoDB, Redis*.
 
