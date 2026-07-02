@@ -1,15 +1,17 @@
 # Habeeb Amoo
-*Software Engineer crafting high-performance backend systems and seamless web experiences that scale — turning complex problems into clean, reliable solutions that hold up in production.*
+*Backend & Systems Engineer focused on Go and Node.js/TypeScript. I build high-performance services, distributed systems, and backend infrastructure. Currently exploring designing reliable systems & cloud deployment.*
 
 ## 🛠️ My Tech Stack
 
-**Languages**: *Go, Typescript, JavaScript*.
+**Languages**: *Go, TypeScript, JavaScript*
 
-**Frameworks**: *React, Next.js, Gin, Express.js*.
+**Backend**: *Gin, Express.js, gRPC (learning)*
 
-**Databases**: *PostgreSQL, MongoDB, Redis*.
+**Databases**: *PostgreSQL, MongoDB, Redis*
 
-**Infrastructure**: *Linux, Docker.*
+**Infrastructure**: *Docker, Linux, AWS (learning)*
+
+**Frontend**: *React, Next.js*
 
 ***
 
