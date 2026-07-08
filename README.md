@@ -9,7 +9,7 @@
 
 **Databases**: *PostgreSQL, MongoDB, Redis*
 
-**Infrastructure**: *Docker, Linux, AWS (learning)*
+**Infrastructure**: *Docker, Linux, Cloud (learning)*
 
 **Frontend**: *React, Next.js*
 
