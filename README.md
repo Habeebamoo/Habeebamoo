@@ -1,5 +1,5 @@
 # Habeeb Amoo
-*Backend Engineer (Go, TypeScript). I build high-performance services, distributed systems, and backend infrastructure. Currently exploring systems design & cloud.*
+*Backend Engineer. I build high-performance APIs, services, distributed systems, and backend infrastructure. Currently exploring systems design & cloud.*
 
 ## 🛠️ My Tech Stack
 
