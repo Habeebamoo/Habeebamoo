@@ -1,15 +1,17 @@
 # Habeeb Amoo
-*Backend Engineer. I build high-performance APIs, services, distributed systems, and backend infrastructure. Currently exploring systems design & cloud.*
+*Software Engineer*. 
+
+*I build high-performance APIs, services, distributed systems, and backend infrastructure. Currently exploring systems design & cloud infrastructure.*
 
 ## 🛠️ My Tech Stack
 
 **Languages**: *Go, TypeScript, JavaScript*
 
-**Backend**: *Gin, Express.js, gRPC (learning)*
+**Backend**: *Gin, Express.js, REST*
 
 **Databases**: *PostgreSQL, MongoDB, Redis*
 
-**Infrastructure**: *Docker, Linux, Cloud (learning)*
+**Infrastructure**: *Docker, Linux, Cloud*
 
 **Frontend**: *React, Next.js*
 
@@ -31,7 +33,7 @@
 
 ## Connect
 
-<div align="center">
+<div>
    
    [![X](https://img.shields.io/badge/X-@Habeeb_O_Amoo-black?style=flat&logo=x)](https://x.com/Habeeb_O_Amoo)
       
@@ -46,4 +48,4 @@
 ***
 
 
-💡 *Going to the Cloud 🚀💭*
+💡 *Systems & Infra*
