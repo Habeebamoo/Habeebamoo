@@ -33,16 +33,11 @@
 
 ## Connect
 
-<div style="display: flex; align-items: center; gap: 10px;">
-   
-   [![X](https://img.shields.io/badge/X-@Habeeb_O_Amoo-black?style=flat&logo=x)](https://x.com/Habeeb_O_Amoo)
-      
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habeeeb-amoo-2a5787380)
-
-   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Habeebamoo)
-
-   [![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://habeebamoo.vercel.app)
-
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+   <a href="https://x.com" target="_blank"><img src="https://shields.io" alt="X"></a>
+   <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
+   <a href="https://github.com" target="_blank"><img src="https://shields.io" alt="GitHub"></a>
+   <a href="https://vercel.app" target="_blank"><img src="https://shields.io" alt="Website"></a>
 </div>
 
 
