@@ -33,7 +33,7 @@
 
 ## Connect
 
-<div>
+<div style="display: flex; align-items: center; gap: 10px;">
    
    [![X](https://img.shields.io/badge/X-@Habeeb_O_Amoo-black?style=flat&logo=x)](https://x.com/Habeeb_O_Amoo)
       
@@ -44,6 +44,7 @@
    [![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://habeebamoo.vercel.app)
 
 </div>
+
 
 ***
 
