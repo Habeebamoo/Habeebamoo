@@ -31,15 +31,6 @@
 
 </div>
 
-## Connect
-
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-   <a href="https://x.com" target="_blank"><img src="https://shields.io" alt="X"></a>
-   <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
-   <a href="https://github.com" target="_blank"><img src="https://shields.io" alt="GitHub"></a>
-   <a href="https://vercel.app" target="_blank"><img src="https://shields.io" alt="Website"></a>
-</div>
-
 
 ***
 
