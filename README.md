@@ -1,7 +1,7 @@
 # Habeeb Amoo
 *Software Engineer*. 
 
-*I build high-performance APIs, services, distributed systems, and backend infrastructure. Currently exploring systems design & cloud infrastructure.*
+*I build backend services, APIs, and scalable systems. Currently exploring systems design & cloud.*
 
 ## 🛠️ My Tech Stack
 
