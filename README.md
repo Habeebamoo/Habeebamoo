@@ -1,17 +1,15 @@
 # Habeeb Amoo
-*Software Engineer*. 
-
-*I build backend services, APIs, and scalable systems. Currently exploring systems design & cloud.*
+*I design and build backend services, APIs, and scalable systems — focusing on reliability and production-grade scale*.
 
 ## 🛠️ My Tech Stack
 
 **Languages**: *Go, TypeScript, JavaScript*
 
-**Backend**: *Gin, Express.js, REST*
+**Backend**: *Gin, Node.js, REST*
 
 **Databases**: *PostgreSQL, MongoDB, Redis*
 
-**Infrastructure**: *Docker, Linux, Cloud*
+**Infrastructure**: *Docker, Linux, Prometheus, Grafana, NGINX, Cloud*
 
 **Frontend**: *React, Next.js*
 
