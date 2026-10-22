@@ -3,7 +3,7 @@
 
 ## 🛠️ My Tech Stack
 
-**Languages**: *Go, TypeScript, JavaScript*
+**Languages**: *Go, TypeScript, JavaScript, SQL*
 
 **Backend**: *Gin, Node.js, REST*
 
