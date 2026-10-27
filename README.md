@@ -1,5 +1,9 @@
 # Habeeb Amoo
-*I design and build backend services, APIs, and scalable systems — providing solutions that improve reliability, scale and cost-reduction*.
+*I build systems, scale infrastructure, and reduce costs.
+
+I design and build reliable software systems, backend services, APIs, and infrastructure for products that need to perform reliably as they grow.
+
+Focus: System Architecture · Backend Engineering · Infrastructure · Performance · Cost Optimization*.
 
 ## 🛠️ My Tech Stack
 
