@@ -1,9 +1,9 @@
 # Habeeb Amoo
-*I build systems, scale infrastructure, and reduce costs.
+I build systems, scale infrastructure, and reduce costs.
 
 I design and build reliable software systems, backend services, APIs, and infrastructure for products that need to perform reliably as they grow.
 
-Focus: System Architecture · Backend Engineering · Infrastructure · Performance · Cost Optimization*.
+Focus: System Architecture · Backend Engineering · Infrastructure · Performance · Cost Optimization.
 
 ## 🛠️ My Tech Stack
 
