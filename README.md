@@ -1,5 +1,5 @@
 # Habeeb Amoo
-*I design and build backend services, APIs, and scalable systems — focusing on reliability and production-grade scale*.
+*I design and build backend services, APIs, and scalable systems — providing solutions that improve reliability, scale and cost-reduction*.
 
 ## 🛠️ My Tech Stack
 
