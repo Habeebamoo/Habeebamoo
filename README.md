@@ -1,7 +1,7 @@
 # Habeeb Amoo
 I design and build reliable software systems, backend services, APIs, and infrastructure for products that need to perform reliably as they grow.
 
-Focus: System Architecture · Backend Engineering · Infrastructure · Performance · Cost Optimization.
+Focus: System Architecture · Backend Engineering · Infrastructure · Pentesting.
 
 ## 🛠️ My Tech Stack
 
